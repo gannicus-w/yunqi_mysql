@@ -1,6 +1,6 @@
 package web
 
-import "github.com/gannicus-w/yq_mysql/sqls"
+import "github.com/gannicus-w/yunqi_mysql/sqls"
 
 // PageResult 分页返回数据
 type PageResult struct {

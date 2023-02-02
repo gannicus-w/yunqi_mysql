@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gannicus-w/yq_mysql/sqls"
+	"github.com/gannicus-w/yunqi_mysql/sqls"
 	"github.com/spf13/cast"
 
-	"github.com/gannicus-w/yq_mysql/common/dates"
-	"github.com/gannicus-w/yq_mysql/common/strs"
+	"github.com/gannicus-w/yunqi_mysql/common/dates"
+	"github.com/gannicus-w/yunqi_mysql/common/strs"
 	"github.com/iris-contrib/schema"
 	"github.com/kataras/iris/v12"
 )

@@ -1,4 +1,4 @@
-module github.com/gannicus-w/yq_mysql
+module github.com/gannicus-w/yunqi_mysql
 
 go 1.18
 

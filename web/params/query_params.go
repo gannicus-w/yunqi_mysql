@@ -1,8 +1,8 @@
 package params
 
 import (
-	"github.com/gannicus-w/yq_mysql/common/strs/strcase"
-	"github.com/gannicus-w/yq_mysql/sqls"
+	"github.com/gannicus-w/yunqi_mysql/common/strs/strcase"
+	"github.com/gannicus-w/yunqi_mysql/sqls"
 	"github.com/kataras/iris/v12"
 )
 

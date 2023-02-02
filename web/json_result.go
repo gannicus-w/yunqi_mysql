@@ -1,8 +1,8 @@
 package web
 
 import (
-	"github.com/gannicus-w/yq_mysql/common/structs"
-	"github.com/gannicus-w/yq_mysql/sqls"
+	"github.com/gannicus-w/yunqi_mysql/common/structs"
+	"github.com/gannicus-w/yunqi_mysql/sqls"
 )
 
 type JsonResult struct {
